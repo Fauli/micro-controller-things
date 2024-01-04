@@ -9,6 +9,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Contributing
 
 Contributions to this project are welcome! If you have any improvements or bug fixes, please feel free to submit a pull request.
+
 ## Usage
 
 To use the code in this repository, follow the instructions provided in each project's README file. Make sure you have the necessary hardware and software requirements before attempting to run the code.
