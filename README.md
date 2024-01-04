@@ -4,12 +4,11 @@ This repository contains a collection of microcontroller projects written for ES
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in this repository, subject to the terms and conditions of the license.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code in this repository.
 
 ## Contributing
 
-Contributions to this project are welcome! If you have any improvements or bug fixes, please feel free to submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your changes.
-
+Contributions to this project are welcome! If you have any improvements or bug fixes, please feel free to submit a pull request.
 ## Usage
 
 To use the code in this repository, follow the instructions provided in each project's README file. Make sure you have the necessary hardware and software requirements before attempting to run the code.
